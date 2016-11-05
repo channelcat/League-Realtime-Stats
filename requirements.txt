@@ -1,0 +1,6 @@
+gevent
+pywin32
+greenlet
+pygubu
+ws4py
+pyinstaller
